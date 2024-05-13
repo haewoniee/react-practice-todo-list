@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-practice-todo-list/static/js/main.ce6ed161.js",
+    "index.html": "/react-practice-todo-list/index.html",
+    "main.ce6ed161.js.map": "/react-practice-todo-list/static/js/main.ce6ed161.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ce6ed161.js"
+  ]
+}
